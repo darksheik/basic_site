@@ -1,3 +1,3 @@
-Since the meatiest portion of Michael Hartl's RailsTutorial.org is setting up the security, sign in/sign out functionality, and update capabilities for users, I'm keeping this repository up as a foundation for building a new site without having to plow through all of that again.
+This is Michael Hartl's RailsTutorial.org, all the way up to the end of Chapter 10, where the user model is complete.  I decided to make this a separate project, because it's such a meaty part of making a Rails site.
 
-This enables you to hit the deck running with your apps functionality and rest assured that the user portion is taken care of.
+Once you get over that hump of ensuring user security, sign in/sign out functionality, you can start making a great site with your own content right away. 
